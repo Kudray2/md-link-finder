@@ -1,0 +1,29 @@
+{
+  "name": "md-link-extractor",
+  "version": "1.0.0",
+  "description": "A CLI tool to extract links from Markdown files",
+  "main": "src/index.js",
+  "bin": {
+    "md-link-extractor": "./src/index.js"
+  },
+  "scripts": {
+    "test": "node tests/test.js",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "markdown",
+    "links",
+    "cli",
+    "extractor"
+  ],
+  "author": "Larch Task1",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "cli-table3": "^0.6.5"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

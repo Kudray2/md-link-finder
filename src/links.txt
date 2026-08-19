@@ -1,0 +1,106 @@
+File,Link,Line
+../ecto-1-kb-main/README.md,https://www.tldraw.com/f/vmDgAUPRHwqbl6XBioCTd?d=v-165.-209.2230.1510.ktdUMFGMRnE0GSi7qMi_z,3
+../ecto-1-kb-main/README.md,https://www.figma.com/design/6tajpyASvzCUJziXVmqB6f/Wiki?node-id=0-1&t=aJzBTT6nICiGYAly-1,3
+../ecto-1-kb-main/README.md,https://coders.su,3
+../ecto-1-kb-main/README.md,https://img.shields.io/badge/Documentation-1.0.0-blue.svg,94
+../ecto-1-kb-main/Документация/Локальный запуск/Прокси.md,https://github.com/larchanka-training/python-typescript-wiki/blob/5fb06aecf7fa8bc8dbbb1bf0e3e38be20a0e10ca/docker-compose.yaml#L61,5
+../ecto-1-kb-main/Документация/Локальный запуск/Прокси.md,https://github.com/larchanka-training/python-typescript-wiki/blob/main/proxy/Dockerfile,22
+../ecto-1-kb-main/Документация/Локальный запуск/Прокси.md,https://github.com/larchanka-training/python-typescript-wiki/blob/main/proxy/nginx.conf,54
+../ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/Архитектура.md,https://feature-sliced.design/,896
+../ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/Архитектура.md,https://feature-sliced.design/docs/guides,897
+../ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/Архитектура.md,https://feature-sliced.design/docs/reference/layers,898
+../ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/О проекте.md,https://www.conventionalcommits.org/,175
+../ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/Технологии.md,https://react.dev/,447
+../ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/Технологии.md,https://vitejs.dev/,448
+../ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/Технологии.md,https://tanstack.com/router/latest,449
+../ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/Технологии.md,https://tanstack.com/query/latest,450
+../ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/Технологии.md,https://tailwindcss.com/,451
+../ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/Технологии.md,https://www.radix-ui.com/,452
+../ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/Технологии.md,https://orval.dev/,453
+../ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/Технологии.md,https://zod.dev/,454
+../ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/Технологии.md,https://vitest.dev/,455
+../ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/Технологии.md,https://playwright.dev/,456
+../ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/API клиент.md,https://orval.dev/,508
+../ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/API клиент.md,https://tanstack.com/query/latest,509
+../ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/API клиент.md,https://zod.dev/,510
+../ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/API клиент.md,https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API,511
+../ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Docker.md,https://docs.docker.com/,353
+../ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Docker.md,https://docs.docker.com/compose/,354
+../ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Docker.md,https://git-scm.com/book/en/v2/Git-Tools-Submodules,355
+../ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Переменные окружения.md,https://vitejs.dev/guide/env-and-mode.html,464
+../ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Переменные окружения.md,https://tanstack.com/query/latest/docs/react/reference/QueryClient,465
+../ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Сборка.md,https://vitejs.dev/,551
+../ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Сборка.md,https://www.typescriptlang.org/docs/handbook/project-references.html,552
+../ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Сборка.md,https://www.typescriptlang.org/tsconfig#paths,553
+../ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Стиль кода.md,https://eslint.org/,354
+../ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Стиль кода.md,https://prettier.io/,355
+../ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Стиль кода.md,https://typicode.github.io/husky/,356
+../ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Стиль кода.md,https://github.com/okonet/lint-staged,357
+../ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Установка и запуск.md,https://vitejs.dev/,383
+../ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Установка и запуск.md,https://tanstack.com/query/latest,384
+../ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Установка и запуск.md,https://orval.dev/,385
+../ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Установка и запуск.md,https://react.dev/,386
+../ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой app.md,https://tanstack.com/router/latest,381
+../ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой app.md,https://tanstack.com/query/latest,382
+../ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой app.md,https://feature-sliced.design/docs/reference/layers#app,383
+../ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой entities.md,https://feature-sliced.design/docs/reference/layers#entities,751
+../ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой entities.md,https://zod.dev/,752
+../ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой entities.md,https://tanstack.com/query/latest,753
+../ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой entities.md,https://vitest.dev/,754
+../ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой features.md,https://feature-sliced.design/docs/reference/layers#features,680
+../ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой features.md,https://tanstack.com/query/latest/docs/framework/react/guides/optimistic-updates,681
+../ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой features.md,https://react.dev/reference/react/useReducer,682
+../ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой features.md,https://reactpatterns.com/,683
+../ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой pages.md,https://tanstack.com/router/latest,720
+../ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой pages.md,https://feature-sliced.design/docs/reference/layers#pages,721
+../ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой pages.md,https://tanstack.com/router/latest/docs/framework/react/guide/navigation/,722
+../ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой shared.md,https://feature-sliced.design/docs/reference/layers#shared,1323
+../ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой shared.md,https://www.radix-ui.com/,1324
+../ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой shared.md,https://tailwindcss.com/docs,1325
+../ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой shared.md,https://cva.style/docs,1326
+../ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой shared.md,https://orval.dev/,1327
+../ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой widgets.md,https://feature-sliced.design/docs/reference/layers#widgets,431
+../ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой widgets.md,https://react.dev/learn/your-first-component,432
+../ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой widgets.md,https://reactpatterns.com/,433
+../ecto-1-kb-main/Документация/Фронтенд/04-Функциональность/Авторизация.md,https://feature-sliced.design/docs/get-started/overview,841
+../ecto-1-kb-main/Документация/Фронтенд/04-Функциональность/Авторизация.md,https://tanstack.com/router/latest,842
+../ecto-1-kb-main/Документация/Фронтенд/04-Функциональность/Авторизация.md,https://tanstack.com/query/latest,843
+../ecto-1-kb-main/Документация/Фронтенд/04-Функциональность/Интеграция с API.md,https://tanstack.com/query/latest,796
+../ecto-1-kb-main/Документация/Фронтенд/04-Функциональность/Интеграция с API.md,https://orval.dev/,797
+../ecto-1-kb-main/Документация/Фронтенд/04-Функциональность/Интеграция с API.md,https://feature-sliced.design/docs/reference/layers#shared,798
+../ecto-1-kb-main/Документация/Фронтенд/04-Функциональность/Интеграция с API.md,https://react.dev/learn,799
+../ecto-1-kb-main/Документация/Фронтенд/04-Функциональность/Пространства.md,https://feature-sliced.design/docs/reference/layers#entities,1084
+../ecto-1-kb-main/Документация/Фронтенд/04-Функциональность/Пространства.md,https://tanstack.com/query/latest,1085
+../ecto-1-kb-main/Документация/Фронтенд/04-Функциональность/Пространства.md,https://react.dev/learn,1086
+../ecto-1-kb-main/Документация/Фронтенд/04-Функциональность/Статьи.md,https://feature-sliced.design/docs/reference/layers#entities,220
+../ecto-1-kb-main/Документация/Фронтенд/04-Функциональность/Статьи.md,https://tanstack.com/query/latest,221
+../ecto-1-kb-main/Документация/Фронтенд/04-Функциональность/Статьи.md,https://tanstack.com/router/latest,222
+../ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Компоненты UI.md,https://ui.shadcn.com/,764
+../ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Компоненты UI.md,https://www.radix-ui.com/,765
+../ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Компоненты UI.md,https://cva.style/,766
+../ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Компоненты UI.md,https://tailwindcss.com/,767
+../ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Компоненты UI.md,https://lucide.dev/,768
+../ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Решение проблем.md,https://vitejs.dev/,773
+../ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Решение проблем.md,https://www.typescriptlang.org/,774
+../ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Решение проблем.md,https://playwright.dev/,775
+../ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Решение проблем.md,https://orval.dev/,776
+../ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Руководство разработчика.md,https://feature-sliced.design/docs/,785
+../ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Руководство разработчика.md,https://react.dev/,786
+../ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Руководство разработчика.md,https://tanstack.com/router/latest,787
+../ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Руководство разработчика.md,https://tanstack.com/query/latest,788
+../ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Руководство разработчика.md,https://www.typescriptlang.org/docs/handbook/intro.html,789
+../ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Руководство разработчика.md,https://vitest.dev/,790
+../ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Руководство разработчика.md,https://zod.dev/,791
+../ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Тестирование.md,https://vitest.dev/,540
+../ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Тестирование.md,https://playwright.dev/,541
+../ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Тестирование.md,https://zod.dev/,542
+../ecto-1-kb-main/Документация/Фронтенд/README.md,https://feature-sliced.design,102
+../ecto-1-kb-main/Документация/Фронтенд/README.md,https://react.dev,103
+../ecto-1-kb-main/Документация/Фронтенд/README.md,https://www.typescriptlang.org,104
+../ecto-1-kb-main/Документация/Фронтенд/README.md,https://vitejs.dev,105
+../ecto-1-kb-main/Документация/Фронтенд/README.md,https://tanstack.com/query,106
+../ecto-1-kb-main/Документация/Фронтенд/README.md,https://orval.dev,107
+../ecto-1-kb-main/Документация/Фронтенд/README.md,https://zod.dev,108
+../ecto-1-kb-main/Документация/Фронтенд/README.md,https://playwright.dev,109
+../ecto-1-kb-main/Документация/Фронтенд/README.md,https://vitest.dev,110
+../ecto-1-kb-main/Документация/Фронтенд/README.md,https://tailwindcss.com,111

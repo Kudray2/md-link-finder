@@ -1,0 +1,106 @@
+File,Link,Line
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/README.md,https://www.tldraw.com/f/vmDgAUPRHwqbl6XBioCTd?d=v-165.-209.2230.1510.ktdUMFGMRnE0GSi7qMi_z,3
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/README.md,https://www.figma.com/design/6tajpyASvzCUJziXVmqB6f/Wiki?node-id=0-1&t=aJzBTT6nICiGYAly-1,3
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/README.md,https://coders.su,3
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/README.md,https://img.shields.io/badge/Documentation-1.0.0-blue.svg,94
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Локальный запуск/Прокси.md,https://github.com/larchanka-training/python-typescript-wiki/blob/5fb06aecf7fa8bc8dbbb1bf0e3e38be20a0e10ca/docker-compose.yaml#L61,5
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Локальный запуск/Прокси.md,https://github.com/larchanka-training/python-typescript-wiki/blob/main/proxy/Dockerfile,22
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Локальный запуск/Прокси.md,https://github.com/larchanka-training/python-typescript-wiki/blob/main/proxy/nginx.conf,54
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/Архитектура.md,https://feature-sliced.design/,896
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/Архитектура.md,https://feature-sliced.design/docs/guides,897
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/Архитектура.md,https://feature-sliced.design/docs/reference/layers,898
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/О проекте.md,https://www.conventionalcommits.org/,175
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/Технологии.md,https://react.dev/,447
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/Технологии.md,https://vitejs.dev/,448
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/Технологии.md,https://tanstack.com/router/latest,449
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/Технологии.md,https://tanstack.com/query/latest,450
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/Технологии.md,https://tailwindcss.com/,451
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/Технологии.md,https://www.radix-ui.com/,452
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/Технологии.md,https://orval.dev/,453
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/Технологии.md,https://zod.dev/,454
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/Технологии.md,https://vitest.dev/,455
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/01-Обзор проекта/Технологии.md,https://playwright.dev/,456
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/API клиент.md,https://orval.dev/,508
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/API клиент.md,https://tanstack.com/query/latest,509
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/API клиент.md,https://zod.dev/,510
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/API клиент.md,https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API,511
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Docker.md,https://docs.docker.com/,353
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Docker.md,https://docs.docker.com/compose/,354
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Docker.md,https://git-scm.com/book/en/v2/Git-Tools-Submodules,355
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Переменные окружения.md,https://vitejs.dev/guide/env-and-mode.html,464
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Переменные окружения.md,https://tanstack.com/query/latest/docs/react/reference/QueryClient,465
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Сборка.md,https://vitejs.dev/,551
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Сборка.md,https://www.typescriptlang.org/docs/handbook/project-references.html,552
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Сборка.md,https://www.typescriptlang.org/tsconfig#paths,553
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Стиль кода.md,https://eslint.org/,354
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Стиль кода.md,https://prettier.io/,355
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Стиль кода.md,https://typicode.github.io/husky/,356
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Стиль кода.md,https://github.com/okonet/lint-staged,357
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Установка и запуск.md,https://vitejs.dev/,383
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Установка и запуск.md,https://tanstack.com/query/latest,384
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Установка и запуск.md,https://orval.dev/,385
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/02-Настройка и конфигурация/Установка и запуск.md,https://react.dev/,386
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой app.md,https://tanstack.com/router/latest,381
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой app.md,https://tanstack.com/query/latest,382
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой app.md,https://feature-sliced.design/docs/reference/layers#app,383
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой entities.md,https://feature-sliced.design/docs/reference/layers#entities,751
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой entities.md,https://zod.dev/,752
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой entities.md,https://tanstack.com/query/latest,753
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой entities.md,https://vitest.dev/,754
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой features.md,https://feature-sliced.design/docs/reference/layers#features,680
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой features.md,https://tanstack.com/query/latest/docs/framework/react/guides/optimistic-updates,681
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой features.md,https://react.dev/reference/react/useReducer,682
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой features.md,https://reactpatterns.com/,683
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой pages.md,https://tanstack.com/router/latest,720
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой pages.md,https://feature-sliced.design/docs/reference/layers#pages,721
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой pages.md,https://tanstack.com/router/latest/docs/framework/react/guide/navigation/,722
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой shared.md,https://feature-sliced.design/docs/reference/layers#shared,1323
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой shared.md,https://www.radix-ui.com/,1324
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой shared.md,https://tailwindcss.com/docs,1325
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой shared.md,https://cva.style/docs,1326
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой shared.md,https://orval.dev/,1327
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой widgets.md,https://feature-sliced.design/docs/reference/layers#widgets,431
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой widgets.md,https://react.dev/learn/your-first-component,432
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/03-Architecture FSD/Слой widgets.md,https://reactpatterns.com/,433
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/04-Функциональность/Авторизация.md,https://feature-sliced.design/docs/get-started/overview,841
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/04-Функциональность/Авторизация.md,https://tanstack.com/router/latest,842
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/04-Функциональность/Авторизация.md,https://tanstack.com/query/latest,843
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/04-Функциональность/Интеграция с API.md,https://tanstack.com/query/latest,796
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/04-Функциональность/Интеграция с API.md,https://orval.dev/,797
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/04-Функциональность/Интеграция с API.md,https://feature-sliced.design/docs/reference/layers#shared,798
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/04-Функциональность/Интеграция с API.md,https://react.dev/learn,799
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/04-Функциональность/Пространства.md,https://feature-sliced.design/docs/reference/layers#entities,1084
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/04-Функциональность/Пространства.md,https://tanstack.com/query/latest,1085
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/04-Функциональность/Пространства.md,https://react.dev/learn,1086
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/04-Функциональность/Статьи.md,https://feature-sliced.design/docs/reference/layers#entities,220
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/04-Функциональность/Статьи.md,https://tanstack.com/query/latest,221
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/04-Функциональность/Статьи.md,https://tanstack.com/router/latest,222
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Компоненты UI.md,https://ui.shadcn.com/,764
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Компоненты UI.md,https://www.radix-ui.com/,765
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Компоненты UI.md,https://cva.style/,766
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Компоненты UI.md,https://tailwindcss.com/,767
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Компоненты UI.md,https://lucide.dev/,768
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Решение проблем.md,https://vitejs.dev/,773
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Решение проблем.md,https://www.typescriptlang.org/,774
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Решение проблем.md,https://playwright.dev/,775
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Решение проблем.md,https://orval.dev/,776
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Руководство разработчика.md,https://feature-sliced.design/docs/,785
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Руководство разработчика.md,https://react.dev/,786
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Руководство разработчика.md,https://tanstack.com/router/latest,787
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Руководство разработчика.md,https://tanstack.com/query/latest,788
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Руководство разработчика.md,https://www.typescriptlang.org/docs/handbook/intro.html,789
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Руководство разработчика.md,https://vitest.dev/,790
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Руководство разработчика.md,https://zod.dev/,791
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Тестирование.md,https://vitest.dev/,540
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Тестирование.md,https://playwright.dev/,541
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/05-Разработка/Тестирование.md,https://zod.dev/,542
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/README.md,https://feature-sliced.design,102
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/README.md,https://react.dev,103
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/README.md,https://www.typescriptlang.org,104
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/README.md,https://vitejs.dev,105
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/README.md,https://tanstack.com/query,106
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/README.md,https://orval.dev,107
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/README.md,https://zod.dev,108
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/README.md,https://playwright.dev,109
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/README.md,https://vitest.dev,110
+/Users/sek/projects/Larch/task1/ecto-1-kb-main/Документация/Фронтенд/README.md,https://tailwindcss.com,111
